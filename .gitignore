@@ -1,4 +1,14 @@
 .DS_Store
 Makefile
 /build/
+CMakeFiles
+CMakeCache.txt
+*.cmake
 .*.swp
+yajl-*
+example/parse_config
+install_manifest.txt
+perf/perftest
+reformatter/json_reformat
+test/yajl_test
+verify/json_verify
